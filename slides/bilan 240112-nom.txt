@@ -1,0 +1,51 @@
+1. **Objectifs et Progrès :**
+   - Quels étaient vos objectifs pour cette période?
+        test notification
+        presentation de manlessparking
+   - Pouvez-vous partager les progrès que vous avez réalisés par rapport à ces objectifs?
+        100%
+   - Y a-t-il des obstacles qui ont entravé votre progression?
+        presentation de manlessparking: peur de ne pas finir, peur de mal présenter mais j'ai pu le faire
+
+2. **Collaboration et Communication :**
+   - Comment évaluez-vous la communication au sein de l'équipe?
+        ca commence bien, toujours améliorable, préparer ce qu'on pourra dire
+   - Rencontrez-vous des difficultés dans la collaboration avec d'autres membres de l'équipe?
+   - Y a-t-il des suggestions pour améliorer la communication ou la collaboration?
+
+3. **Problèmes Techniques :**
+   - Avez-vous rencontré des problèmes techniques particuliers? Si oui, comment les avez-vous résolus?
+   - Y a-t-il des domaines où vous pourriez avoir besoin d'aide ou de ressources supplémentaires?
+
+4. **Qualité du Code :**
+   - Comment évaluez-vous la qualité de votre code et des contributions de l'équipe en général?
+   - Avez-vous des préoccupations concernant la maintenabilité du code ou la qualité du travail?
+
+5. **Rétrospective personnelle :**
+   - Quels aspects de votre travail pensez-vous avoir bien gérés?
+   - Y a-t-il des domaines où vous pensez pouvoir vous améliorer?
+
+6. **Formation et Développement :**
+   - Avez-vous suivi des formations ou acquis de nouvelles compétences récemment?
+        je lis au moin un article de medium sur flutter la journée
+   - Y a-t-il des domaines où vous aimeriez recevoir une formation supplémentaire?
+        iOS et apple store
+
+7. **Charge de Travail et Priorités :**
+   - Comment évaluez-vous votre charge de travail actuelle?
+        minime
+   - Y a-t-il des tâches ou des projets qui, selon vous, devraient être traités en priorité?
+        évaluer quoi faire pour la semaine
+
+8. **Feedback sur l'Équipe :**
+   - Quel est votre ressenti par rapport à l'ambiance de travail au sein de l'équipe?
+        we are good to go
+   - Avez-vous des suggestions pour renforcer la cohésion d'équipe?
+
+9. **Perspectives d'Avenir :**
+   - Quelles sont vos attentes pour les prochaines semaines ou mois?
+   - Y a-t-il des projets ou des domaines sur lesquels vous aimeriez travailler davantage?
+
+10. **Besoins et Préoccupations :**
+    - Y a-t-il quelque chose dont vous avez besoin pour mieux accomplir votre travail?
+    - Avez-vous des préoccupations que vous aimeriez partager avec la direction ou l'équipe?
